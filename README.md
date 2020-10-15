@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋-->
 
-[![Welton Santos github stats](https://github-readme-stats.vercel.app/api?username=oweltonsantos)](https://github.com/brunopulis/github-readme-stats)
+[![Welton Santos github stats](https://github-readme-stats.vercel.app/api?username=oweltonsantos)](https://github.com/oweltonsantos/github-readme-stats)
 
 
 
