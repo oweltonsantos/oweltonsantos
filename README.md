@@ -18,7 +18,9 @@
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
 
-[![Welton Santos github stats](https://github-readme-stats.vercel.app/api?username=oweltonsantos)](https://github.com/oweltonsantos/github-readme-stats)
+
+
+<p>[![Welton Santos github stats](https://github-readme-stats.vercel.app/api?username=oweltonsantos)](https://github.com/oweltonsantos/github-readme-stats)</p>
 
 
 
