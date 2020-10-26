@@ -12,10 +12,10 @@
 
 
 <h3 align="left">Contatos / ou / Onde me encontrar</h3>
-<p>
+
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-</p>
+
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
 
