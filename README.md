@@ -1,13 +1,13 @@
-<h3 align="center">Welton Santos - Software Developer</h3>
+<h1 align="center">Welton Santos - Software Developer</h1>
  
 <h3 align="left">Sobre mim: </h3>
  
-<p>🏾‍ 📍 Paraíba.</p>
-<p>🏾‍🎓 Bacharel em Ciência da Computação.</p> 
-<p>🏾‍💻 Software Developer.</p>
-<p>🏾‍🔬 Mestrando em otimização e inteligência computacional.</p>
-<p>🏾‍🥋 Fanático por esportes.</p>
-<p>🏾‍💾 Completamente apaixonado por tecnologia.</p>
+<p> 📍 Paraíba.</p>
+<p>🎓 Bacharel em Ciência da Computação.</p> 
+<p>💻 Software Developer.</p>
+<p>🔬 Mestrando em otimização e inteligência computacional.</p>
+<p>🥋 Fanático por esportes.</p>
+<p>💾 Completamente apaixonado por tecnologia.</p>
 
 <h3 align="left">Contatos / ou / Onde me encontrar</h3>
  
