@@ -18,6 +18,16 @@
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
 
+<h3 align="left">Linguagens e Frameworks</h3>
+
+<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/java.svg"/>
+<img align="left" alt="Dart" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/dart.svg">
+<img align="left" alt="Flutter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/flutter.svg">
+<img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg">
+<img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/django.svg">
+<img align="left" alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">
+<img align="left" alt="Sqlite" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">
+
 
 
 
