@@ -11,7 +11,7 @@
 
 
 
-<h3 align="left">Contatos / ou / Onde me encontrar</h3>
+<h3 align="left">Onde me encontrar</h3>
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
