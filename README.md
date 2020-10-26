@@ -2,12 +2,12 @@
  
 <h3 align="left">Sobre mim: </h3>
  
-🏾‍ 📍 Paraíba.
-🏾‍🎓 Bacharel em Ciência da Computação. 
-🏾‍💻 Software Developer.
-🏾‍🔬 Mestrando em otimização e inteligência computacional.
-🏾‍🥋 Fanático por esportes.
-🏾‍💾 Completamente apaixonado por tecnologia.
+<p>🏾‍ 📍 Paraíba.</p>
+<p>🏾‍🎓 Bacharel em Ciência da Computação.</p> 
+<p>🏾‍💻 Software Developer.</p>
+<p>🏾‍🔬 Mestrando em otimização e inteligência computacional.</p>
+<p>🏾‍🥋 Fanático por esportes.</p>
+<p>🏾‍💾 Completamente apaixonado por tecnologia.</p>
 
 <h3 align="left">Contatos / ou / Onde me encontrar</h3>
  
