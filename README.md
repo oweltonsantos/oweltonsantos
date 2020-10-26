@@ -10,21 +10,20 @@
 <p>💾 Completamente apaixonado por tecnologia.</p>
 
 
-<p>
-<h3 align="left">Contatos / ou / Onde me encontrar</h3>
- 
- [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+<h3 align="left">Contatos / ou / Onde me encontrar</h3>
+<p>
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
 </p>
 
 
-<p>
-<h3 align="left">Linguagens e Frameworks</h3>
 
+<h3 align="left">Linguagens e Frameworks</h3>
+<p>
 <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/java.svg"/>
 <img align="left" alt="Dart" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/dart.svg">
 <img align="left" alt="Flutter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/flutter.svg">
