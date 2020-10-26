@@ -9,6 +9,8 @@
 <p>🥋 Fanático por esportes.</p>
 <p>💾 Completamente apaixonado por tecnologia.</p>
 
+
+<p>
 <h3 align="left">Contatos / ou / Onde me encontrar</h3>
  
  [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -17,6 +19,7 @@
 
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
+</p>
 
 
 <p>
