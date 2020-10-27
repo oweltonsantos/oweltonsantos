@@ -21,10 +21,10 @@
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
 
-<hr>
-
-</hr>
-
+<p>
+ <hr>
+ </hr>
+</p>
 
 <h3 align="left">Linguagens e Frameworks</h3>
 
