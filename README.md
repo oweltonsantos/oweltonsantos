@@ -42,7 +42,9 @@
 
 <br>
 
-<a href="https://github.com/oweltonsantos/"><img src="" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oweltonsantos&amp;theme=dracula" style="max-width:100%;"></a>
+<!--<a href="https://github.com/oweltonsantos/"><img src="https://camo.githubusercontent.com/7c6a997332f28f71741985d263f3cb60246b790f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a7573736172616772616e6a61267468656d653d64726163756c61" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oweltonsantos&amp;theme=dracula" style="max-width:100%;"></a> -->
+
+<!--<img src="https://camo.githubusercontent.com/740e1154c79eff8a38462f9ad37de8a55f15bf5f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a7573736172616772616e6a612673686f775f69636f6e733d74727565267468656d653d64726163756c61" alt="Anurag's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=oweltonsantos&amp;show_icons=true&amp;theme=dracula" style="max-width:100%;">-->
 
 
  <!---[![Welton Santos github stats](https://github-readme-stats.vercel.app/api?username=oweltonsantos)](https://github.com/oweltonsantos/github-readme-stats) -->
