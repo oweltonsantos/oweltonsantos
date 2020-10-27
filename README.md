@@ -9,7 +9,10 @@
 <p>🥋 Fanático por esportes.</p>
 <p>💾 Completamente apaixonado por tecnologia.</p>
 
-
+<hr>
+::before
+::after
+</hr>
 
 <h3 align="left">Onde me encontrar</h3>
 
