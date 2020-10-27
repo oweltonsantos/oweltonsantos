@@ -10,8 +10,7 @@
 <p>💾 Completamente apaixonado por tecnologia.</p>
 
 <hr>
-::before
-::after
+
 </hr>
 
 <h3 align="left">Onde me encontrar</h3>
@@ -22,11 +21,13 @@
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
 
+<hr>
 
+</hr>
 
 
 <h3 align="left">Linguagens e Frameworks</h3>
-<p>
+
 <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/java.svg"/>
 <img align="left" alt="Dart" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/dart.svg">
 <img align="left" alt="Flutter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/flutter.svg">
@@ -34,9 +35,10 @@
 <img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/django.svg">
 <img align="left" alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">
 <img align="left" alt="Sqlite" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">
-</p>
 
+<hr>
 
+</hr>
 
 [![Welton Santos github stats](https://github-readme-stats.vercel.app/api?username=oweltonsantos)](https://github.com/oweltonsantos/github-readme-stats)
 
