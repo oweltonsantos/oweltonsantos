@@ -34,9 +34,9 @@
 
 <a href="https://docs.oracle.com/en/java/" rel="nofollow"><img align="left" alt="Java" width="35px" src="https://camo.githubusercontent.com/d56ad13a49b9805cf7baa35d5da50419da7388c662601cb4931d0b9788ef6150/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f69742f7468756d622f322f32652f4a6176615f4c6f676f2e7376672f32353870782d4a6176615f4c6f676f2e7376672e706e67"/></a>
 
-<a href="https://dart.dev/guides" rel="nofollow"><img align="left" alt="Dart" width="100x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png"></a>
+<a href="https://dart.dev/guides" rel="nofollow"><img align="left" alt="Dart" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png"></a>
 
-<a href="https://flutter.dev/docs" rel="nofollow"><img align="left" alt="Flutter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
+<a href="https://flutter.dev/docs" rel="nofollow"><img align="left" alt="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
  
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg">
 <img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/django.svg">
