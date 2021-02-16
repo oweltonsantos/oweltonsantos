@@ -36,7 +36,8 @@
 
 <a href="https://dart.dev/guides" rel="nofollow"><img align="left" alt="Dart" width="100x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1024px-Dart_programming_language_logo.svg.png"></a>
 
-<img align="left" alt="Flutter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/flutter.svg">
+<a href="https://flutter.dev/docs" rel="nofollow"><img align="left" alt="Flutter" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
+ 
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg">
 <img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/django.svg">
 <img align="left" alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">
