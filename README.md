@@ -32,7 +32,7 @@
 
 <h3 align="left">Linguagens e Frameworks</h3>
 
-<img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/java.svg"/>
+<img align="left" alt="Java" width="35px" src="https://e7.pngegg.com/pngimages/785/145/png-clipart-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo.png"/>
 <img align="left" alt="Dart" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/dart.svg">
 <img align="left" alt="Flutter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/flutter.svg">
 <img align="left" alt="Python" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/python.svg">
