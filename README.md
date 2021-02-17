@@ -20,8 +20,8 @@
 
 <h3 align="left">Onde me encontrar</h3>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Twitter" width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
@@ -42,9 +42,9 @@
 
 <a href="https://docs.djangoproject.com/en/3.1/" rel="nofollow"><img align="left" alt="Django" width="100px" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"></a>
 
-<a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Mysql" width="120px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></a>
+<a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Mysql" width="100px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></a>
  
-<a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
+<a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
 
 <br>
 
