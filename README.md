@@ -20,8 +20,8 @@
 
 <h3 align="left">Onde me encontrar</h3>
 
-[<img align="left" alt="LinkedIn" width="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="Twitter" width="50px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="35px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Twitter" width="35px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
