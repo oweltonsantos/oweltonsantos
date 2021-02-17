@@ -38,9 +38,10 @@
 
 <a href="https://flutter.dev/docs" rel="nofollow"><img align="left" alt="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
  
-<a href="https://docs.python.org/3/" rel="nofollow"><img align="left" alt="Python" width="100px" src="https://edubertin.files.wordpress.com/2019/04/python-logo-png-image.png"></a>
+<a href="https://docs.python.org/3/" rel="nofollow"><img align="left" alt="Python" width="150px" src="https://edubertin.files.wordpress.com/2019/04/python-logo-png-image.png"></a>
 
-<img align="left" alt="Django" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/django.svg">
+<a href="https://docs.djangoproject.com/en/3.1/" rel="nofollow"><img align="left" alt="Django" width="100px" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"></a>
+
 <img align="left" alt="Mysql" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg">
 <img align="left" alt="Sqlite" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">
 
