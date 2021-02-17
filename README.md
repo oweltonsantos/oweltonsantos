@@ -38,13 +38,13 @@
 
 <a href="https://flutter.dev/docs" rel="nofollow"><img align="left" alt="Flutter" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></a>
  
-<a href="https://docs.python.org/3/" rel="nofollow"><img align="left" alt="Python" width="120px" src="https://edubertin.files.wordpress.com/2019/04/python-logo-png-image.png"></a>
+<a href="https://docs.python.org/3/" rel="nofollow"><img align="left" alt="Python" width="130px" src="https://edubertin.files.wordpress.com/2019/04/python-logo-png-image.png"></a>
 
 <a href="https://docs.djangoproject.com/en/3.1/" rel="nofollow"><img align="left" alt="Django" width="100px" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo.png"></a>
 
-<a href="https://docs.djangoproject.com/en/3.1/" rel="nofollow"><img align="left" alt="Mysql" width="120px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></a>
+<a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Mysql" width="120px" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo.png"></a>
  
-<img align="left" alt="Sqlite" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sqlite.svg">
+<a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
 
 <br>
 
