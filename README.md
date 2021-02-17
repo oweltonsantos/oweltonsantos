@@ -8,7 +8,7 @@
 <ul>
 <li> 📍 Paraíba.</li>
 <li>🎓 Bacharel em Ciência da Computação.</li> 
-<li>💻 Software Developer.</li>
+<li>💻 Desenvolvedor de Software.</li>
 <li>🔬 Mestrando em otimização e inteligência computacional.</li>
 <li>🥋 Fanático por esportes.</li>
 <li>💾 Completamente apaixonado por tecnologia.</li>
@@ -20,8 +20,8 @@
 
 <h3 align="left">Onde me encontrar</h3>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Twitter" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/oweltonsantos
 [twitter]: https://twitter.com/oweltonsantos
@@ -30,7 +30,7 @@
 <hr>
 </hr>
 
-<h3 align="left">Linguagens e Frameworks</h3>
+<h3 align="left">Linguagens, Ferramentas e Frameworks</h3>
 
 <a href="https://docs.oracle.com/en/java/" rel="nofollow"><img align="left" alt="Java" width="35px" src="https://camo.githubusercontent.com/d56ad13a49b9805cf7baa35d5da50419da7388c662601cb4931d0b9788ef6150/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f69742f7468756d622f322f32652f4a6176615f4c6f676f2e7376672f32353870782d4a6176615f4c6f676f2e7376672e706e67"/></a>
 
