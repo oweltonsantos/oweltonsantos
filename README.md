@@ -46,6 +46,15 @@
  
 <a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
 
+<p>
+ <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
+ 
+ <a href="https://docs.github.com/pt" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png"></a>
+ 
+ <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="100px" src="https://www.oatsolutions.com.br/wp-content/uploads/2020/04/bitbucket-logo-gradient-blue@2x.png"></a>
+ 
+</p>
+
 <br>
 
 <!--<a href="https://github.com/oweltonsantos/"><img src="https://camo.githubusercontent.com/7c6a997332f28f71741985d263f3cb60246b790f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a7573736172616772616e6a61267468656d653d64726163756c61" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=oweltonsantos&amp;theme=dracula" style="max-width:100%;"></a> -->
