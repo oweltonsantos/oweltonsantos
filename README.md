@@ -54,10 +54,12 @@
  
  <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="180px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png"></a>
  
-  <a href="https://help.trello.com/article/756-trello-api-documentation" rel="nofollow"><img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png"></a>
+<a href="https://help.trello.com/article/756-trello-api-documentation" rel="nofollow"><img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png"></a>
+
+<a href="https://developer.android.com/docs" rel="nofollow"><img align="left" alt="AndroidStudio" width="120px" src="https://freepngimg.com/thumb/android/58550-mobile-development-android-studio-app-free-download-image.png"></a>
   
-  <a href="https://netbeans.org/kb/" rel="nofollow"><img align="left" alt="NetBeans" width="120px" src="https://connect.adfab.fr/wp-content/uploads/2016/12/NetBeans.svg_.png"></a>
-      <a href="https://developer.android.com/docs" rel="nofollow"><img align="left" alt="AndroidStudio" width="120px" src="https://freepngimg.com/thumb/android/58550-mobile-development-android-studio-app-free-download-image.png"></a>
+<a href="https://netbeans.org/kb/" rel="nofollow"><img align="left" alt="NetBeans" width="120px" src="https://connect.adfab.fr/wp-content/uploads/2016/12/NetBeans.svg_.png"></a>
+
   
  
 
