@@ -46,9 +46,9 @@
  
 <a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
 
-<br></br>
+<br></br> <br></br>
 
- <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
+ <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
  
  <a href="https://docs.github.com/pt" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png"></a>
  
