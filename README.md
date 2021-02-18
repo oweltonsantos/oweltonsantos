@@ -52,7 +52,7 @@
  
  <a href="https://docs.github.com/pt" rel="nofollow"><img align="left" alt="GitHub" width="50px" src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png"></a>
  
- <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="150px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png"></a>
+ <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="180px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png"></a>
  
 
 
