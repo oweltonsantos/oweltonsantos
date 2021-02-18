@@ -46,14 +46,15 @@
  
 <a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
 
-<p>
+<p></p>
+
  <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
  
  <a href="https://docs.github.com/pt" rel="nofollow"><img align="left" alt="GitHub" width="35px" src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png"></a>
  
- <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="100px" src="https://www.oatsolutions.com.br/wp-content/uploads/2020/04/bitbucket-logo-gradient-blue@2x.png"></a>
+ <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="100px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png"></a>
  
-</p>
+
 
 <br>
 
