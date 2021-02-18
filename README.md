@@ -56,7 +56,7 @@
  
 <a href="https://help.trello.com/article/756-trello-api-documentation" rel="nofollow"><img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png"></a>
 
-<a href="https://developer.android.com/docs" rel="nofollow"><img align="left" alt="AndroidStudio" width="140px" src="https://freepngimg.com/thumb/android/58550-mobile-development-android-studio-app-free-download-image.png"></a>
+<a href="https://developer.android.com/docs" rel="nofollow"><img align="left" alt="AndroidStudio" width="140px" src="https://gregtrevellick.gallerycdn.vsassets.io/extensions/gregtrevellick/openinandroidstudio/1.1.52/1540120323482/ThirdPartyLogo.png"></a>
   
 <a href="https://netbeans.org/kb/" rel="nofollow"><img align="left" alt="NetBeans" width="120px" src="https://connect.adfab.fr/wp-content/uploads/2016/12/NetBeans.svg_.png"></a>
 
