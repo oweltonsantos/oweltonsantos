@@ -55,6 +55,8 @@
  <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="180px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png"></a>
  
   <a href="https://help.trello.com/article/756-trello-api-documentation" rel="nofollow"><img align="left" alt="Trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png"></a>
+  
+  <a href="https://netbeans.org/kb/" rel="nofollow"><img align="left" alt="NetBeans" width="50px" src="https://miro.medium.com/max/400/1*XPf1OhlUMgbo39OhroBMyA.png"></a>
  
 
 
