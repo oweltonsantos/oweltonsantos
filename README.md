@@ -48,9 +48,9 @@
 
 <br></br> <br></br>
 
- <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
+ <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
  
- <a href="https://docs.github.com/pt" rel="nofollow"><img align="left" alt="GitHub" width="100px" src="https://cdn2.hubspot.net/hubfs/5308965/github_PNG15.png"></a>
+ <a href="https://docs.github.com/pt" rel="nofollow"><img align="left" alt="GitHub" width="120px" src="https://cdn2.hubspot.net/hubfs/5308965/github_PNG15.png"></a>
  
  <a href="https://confluence.atlassian.com/bitbucketserver/bitbucket-data-center-and-server-documentation-776639749.html" rel="nofollow"><img align="left" alt="BitBucket" width="180px" src="https://dkrn4sk0rn31v.cloudfront.net/2019/02/01142649/Bitbucket.png"></a>
  
