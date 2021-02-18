@@ -46,7 +46,7 @@
  
 <a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="left" alt="Sqlite" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></a>
 
-<p></p>
+<br></br>
 
  <a href="https://git-scm.com/doc" rel="nofollow"><img align="left" alt="Git" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></a>
  
