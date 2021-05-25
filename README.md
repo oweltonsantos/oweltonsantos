@@ -9,7 +9,6 @@
 <li> 📍 Paraíba.</li>
 <li>🎓 Bacharel em Ciência da Computação.</li> 
 <li>💻 Desenvolvedor de Software.</li>
-<li>🔬 Mestrando em otimização e inteligência computacional.</li>
 <li>🥋 Fanático por esportes.</li>
 <li>💾 Completamente apaixonado por tecnologia.</li>
 </ul>
